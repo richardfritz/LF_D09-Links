@@ -111,6 +111,7 @@
 - [Virtuelle Maschine](https://www.elektronik-kompendium.de/sites/com/3003121.htm) ✅🌐💻
 - [Virtualisierung Computertechnik](https://www.elektronik-kompendium.de/sites/com/3003131.htm) 🌐💻
 - [Virtualisierung Prozessor](https://www.elektronik-kompendium.de/sites/com/3003141.htm) 🌐💻
+- [Vertikale Skalierung](https://phoenixnap.de/Glossar/vertikale-Skalierung)
 
 ## Allgemeine Ressourcen
 - [FI-Forum OSI Modell Überblick](https://www.fachinformatiker.de/files/file/5-iso-osi-schichtenmodell/) ✅🌐💻
@@ -132,6 +133,7 @@
 - [FI-Forum AP2 FISI Prüfungsvorbereitung](https://www.fachinformatiker.de/files/file/52-fisi-ap-2-prüfungsvorbereitung/) 🌐
 ---
 - [FI-Forum AP2 FIAE Masterplan](https://www.fachinformatiker.de/files/file/50-ap2-fiae-masterplan-v10/) 💻
+- [Stefan Macke AP2 FIAE Prüfungsvorbereitung Playlist](https://www.youtube.com/watch?v=eQoC4GDzYbI&list=PLunzHF-cqEKMBkR6Jqg1YApkbJWEsy1gy)
 
 
 
