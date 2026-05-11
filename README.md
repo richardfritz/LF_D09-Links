@@ -21,8 +21,8 @@
 * 🔐 = Security / zusätzlich wichtig
 
 ## Grundlagen Netzwerktechnik
-- [Sebastian Philippi Netzwerk Grundlagen Playlist](https://www.youtube.com/watch?v=MpmfKq5Aq9A&list=PLCb8EhYsrW_tPXXICCdlCpIO9Ur0iXNg6)
-- [Stefan Macke Netzpläne](https://www.youtube.com/watch?v=ETcc9H3NlVg&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=17&pp=iAQB)
+- [Sebastian Philippi: Netzwerk Grundlagen Playlist](https://www.youtube.com/watch?v=MpmfKq5Aq9A&list=PLCb8EhYsrW_tPXXICCdlCpIO9Ur0iXNg6)
+- [Stefan Macke: Netzpläne](https://www.youtube.com/watch?v=ETcc9H3NlVg&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=17&pp=iAQB)
 ---
 
 - [Grundlagen Netzwerktechnik (ElKo)](https://www.elektronik-kompendium.de/sites/net/0503271.htm) ✅
@@ -37,13 +37,13 @@
 - [TCP/IP-Schichtenmodell (ElKo)](https://www.elektronik-kompendium.de/sites/net/0907011.htm) ✅🌐💻
 - [OSI-Schichtenmodell (ElKo)](https://www.elektronik-kompendium.de/sites/kom/0301201.htm) ✅🌐💻
 - [OSI-Schichtenmodell in der Netzwerktechnik (ElKo)](https://www.elektronik-kompendium.de/sites/net/0706101.htm) ✅🌐
-- [OSI Modell Überblick](https://www.fachinformatiker.de/files/file/5-iso-osi-schichtenmodell/) ✅🌐💻
+- [OSI Modell Überblick (FI-Forum)](https://www.fachinformatiker.de/files/file/5-iso-osi-schichtenmodell/) ✅🌐💻
 
 ## Netzwerkgeräte
 
 | Gerät | Beschreibung | AP |
 |---|---|:---:|
-| [Router vs. Gateway](https://reolink.com/blog/router-vs-gateway-was-ist-der-unterschied/) | Ein Router vermittelt Pakete zwischen Netzwerken; ein Gateway übersetzt zudem zwischen unterschiedlichen Protokollen. | ✅🌐 |
+| [Router vs. Gateway (Reolink)](https://reolink.com/blog/router-vs-gateway-was-ist-der-unterschied/) | Ein Router vermittelt Pakete zwischen Netzwerken; ein Gateway übersetzt zudem zwischen unterschiedlichen Protokollen. | ✅🌐 |
 | [Netzwerkkarte (ElKo)](https://www.elektronik-kompendium.de/sites/net/0811011.htm) | Stellt die physische Schnittstelle eines Geräts zum Netzwerk bereit und besitzt eine eindeutige MAC-Adresse. | ✅🌐 |
 | [Repeater (ElKo)](https://www.elektronik-kompendium.de/sites/net/0901091.htm) | Verstärkt und regeneriert Signale auf Schicht 1, um größere Übertragungsdistanzen zu überbrücken. | ✅ |
 | [Hub (ElKo)](https://www.elektronik-kompendium.de/sites/net/1405161.htm) | Sendet eingehende Datenpakete an alle angeschlossenen Ports gleichzeitig, ohne Adressfilterung. | ✅ |
@@ -59,9 +59,9 @@
 | [Load Balancing (ElKo)](https://www.elektronik-kompendium.de/sites/net/0906201.htm) | Verfahren zur gleichmäßigen Lastverteilung auf mehrere Systeme für höhere Verfügbarkeit und Performance. | 🌐💻 |
 
 ## Kryptographie / Verschlüsselung / Netzwerksicherheit 
-- [Sebastian Philippi Netzwerksicherheit Reloaded Playlist](https://www.youtube.com/watch?v=bF_u0vCfrl0&list=PLCb8EhYsrW_ukGeh-8uSkv5ktYM41fgfV)
-- [Sebastian Philippi Verschlüsseln, Signieren, Korrektheit garantieren Playlist](https://www.youtube.com/watch?v=Lq5u4YsiY_s&list=PLCb8EhYsrW_tZQ4bRkoGz3XzHuExiDWuF)
-- [Stefan Macke Verschlüsselung Video (1,5h)](https://www.youtube.com/watch?v=n87q9bb-Kl4&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=7&pp=iAQB)
+- [Sebastian Philippi: Netzwerksicherheit Reloaded Playlist](https://www.youtube.com/watch?v=bF_u0vCfrl0&list=PLCb8EhYsrW_ukGeh-8uSkv5ktYM41fgfV)
+- [Sebastian Philippi: Verschlüsseln, Signieren, Korrektheit garantieren Playlist](https://www.youtube.com/watch?v=Lq5u4YsiY_s&list=PLCb8EhYsrW_tZQ4bRkoGz3XzHuExiDWuF)
+- [Stefan Macke: Verschlüsselung Video](https://www.youtube.com/watch?v=n87q9bb-Kl4&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=7&pp=iAQB)
 
 ---
 - [Grundlagen Netzwerksicherheit (ElKo)](https://www.elektronik-kompendium.de/sites/net/0908021.htm) ✅🌐💻🔐
@@ -81,7 +81,7 @@
 - [PGP (ElKo)](https://www.elektronik-kompendium.de/sites/net/1810181.htm) 💻🔐
 
 ## Firewall / Paketfilterung
-- [Sebastian Philippi ACL Playlist](https://www.youtube.com/watch?v=zXZgsVPRqnw&list=PLCb8EhYsrW_tLYFnK17Yb_kaoCmqJ3Lzk)
+- [Sebastian Philippi: ACL Playlist](https://www.youtube.com/watch?v=zXZgsVPRqnw&list=PLCb8EhYsrW_tLYFnK17Yb_kaoCmqJ3Lzk)
 
 ---
 
@@ -92,7 +92,7 @@
 - [Stateful Packet Inspection (ElKo)](https://www.elektronik-kompendium.de/sites/net/1409291.htm) 🌐🔐
 
 ## VPN
-- [Sebastian Philippi VPN Playlist](https://www.youtube.com/watch?v=uAgbCoc-s7A&list=PLCb8EhYsrW_vtL-fKFr3lnJJ2yYPNFS6y)
+- [Sebastian Philippi: VPN Playlist](https://www.youtube.com/watch?v=uAgbCoc-s7A&list=PLCb8EhYsrW_vtL-fKFr3lnJJ2yYPNFS6y)
 
 ---
 
@@ -104,8 +104,8 @@
 - [IPsec (ElKo)](https://www.elektronik-kompendium.de/sites/net/0906191.htm) 🌐🔐
 
 ## System Hardening
-- https://de.wikipedia.org/wiki/H%C3%A4rten_(Computer)
-- https://www.fb-pro.com/os-hardening/
+- [Systemhärtung (Wiki)](https://de.wikipedia.org/wiki/H%C3%A4rten_(Computer))
+- [OS-Hardening (fb-pro)](https://www.fb-pro.com/os-hardening/)
 
 
 ## Virtualisierung
@@ -118,25 +118,24 @@
 - [Vertikale Skalierung](https://phoenixnap.de/Glossar/vertikale-Skalierung)
 
 ## Allgemeine Ressourcen
-- [FI-Forum OSI Modell Überblick](https://www.fachinformatiker.de/files/file/5-iso-osi-schichtenmodell/) ✅🌐💻
-- [FI-Forum USV Typen](https://www.fachinformatiker.de/files/file/9-usv-typen/) ✅🌐
-- [FI-Forum Backup Formen](https://www.fachinformatiker.de/files/file/8-backup-formen/) ✅🌐💻
 
-- [FI-Forum IPv4 und IPv6](https://www.fachinformatiker.de/files/file/40-ipv4-und-ipv6/) ✅🌐💻
-- [FI-Forum Fachbegriffe Glossar](https://www.fachinformatiker.de/files/file/48-fachbegriffe-und-themen-kurzerklärung/) ✅🌐💻
+- [USV Typen (FI-Forum)](https://www.fachinformatiker.de/files/file/9-usv-typen/) ✅🌐
+- [Backup Formen (FI-Forum)](https://www.fachinformatiker.de/files/file/8-backup-formen/) ✅🌐💻
+- [IPv4 und IPv6 (FI-Forum)](https://www.fachinformatiker.de/files/file/40-ipv4-und-ipv6/) ✅🌐💻
+- [Fachbegriffe Glossar (FI-Forum)](https://www.fachinformatiker.de/files/file/48-fachbegriffe-und-themen-kurzerklärung/) ✅🌐💻
 
 ## Prüfungsvorbereitung
-- [Stefan Macke AP1 Playlist](https://www.youtube.com/playlist?list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj)✅
+- [Stefan Macke: AP1 Playlist](https://www.youtube.com/playlist?list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj)✅
 ---
-- [FI-Forum Prüfungskatalog 2025](https://www.fachinformatiker.de/files/file/33-prüfungskatalog-2025-auszug/) ✅🌐💻
+- [Prüfungskatalog 2025 (FI-Forum)](https://www.fachinformatiker.de/files/file/33-prüfungskatalog-2025-auszug/) ✅🌐💻
 ---
-- [FI-Forum AP1 Masterplan](https://www.fachinformatiker.de/files/file/44-ap1-prüfungsvorbereitung-masterplan/) ✅
-- [FI-Forum AP1 Lernzettel](https://www.fachinformatiker.de/files/file/36-fachinformatiker-ap1-lernzettel-ab-2025/) ✅
+- [AP1 Masterplan (FI-Forum)](https://www.fachinformatiker.de/files/file/44-ap1-prüfungsvorbereitung-masterplan/) ✅
+- [AP1 Lernzettel (FI-Forum)](https://www.fachinformatiker.de/files/file/36-fachinformatiker-ap1-lernzettel-ab-2025/) ✅
 ---
-- [FI-Forum AP2 FISI Masterplan](https://www.fachinformatiker.de/files/file/51-ap2-fisi-masterplan/) 🌐
-- [FI-Forum AP2 FISI Prüfungsvorbereitung](https://www.fachinformatiker.de/files/file/52-fisi-ap-2-prüfungsvorbereitung/) 🌐
+- [AP2 FISI Masterplan (FI-Forum)](https://www.fachinformatiker.de/files/file/51-ap2-fisi-masterplan/) 🌐
+- [AP2 FISI Prüfungsvorbereitung (FI-Forum)](https://www.fachinformatiker.de/files/file/52-fisi-ap-2-prüfungsvorbereitung/) 🌐
 ---
-- [FI-Forum AP2 FIAE Masterplan](https://www.fachinformatiker.de/files/file/50-ap2-fiae-masterplan-v10/) 💻
+- [AP2 FIAE Masterplan (FI-Forum)](https://www.fachinformatiker.de/files/file/50-ap2-fiae-masterplan-v10/) 💻
 - [Stefan Macke AP2 FIAE Prüfungsvorbereitung Playlist](https://www.youtube.com/watch?v=eQoC4GDzYbI&list=PLunzHF-cqEKMBkR6Jqg1YApkbJWEsy1gy)
 
 
