@@ -23,6 +23,8 @@
 * 💻 = AP2 FIAE (Entwicklung / Software)
 * 🔐 = Security / zusätzlich wichtig
 
+---
+
 ## Grundlagen Netzwerktechnik
 ### Videos
 - [Sebastian Philippi Netzwerk Grundlagen Playlist](https://www.youtube.com/watch?v=MpmfKq5Aq9A&list=PLCb8EhYsrW_tPXXICCdlCpIO9Ur0iXNg6)
@@ -68,6 +70,8 @@
 | [Load Balancer](https://www.elektronik-kompendium.de/sites/net/0904131.htm) | Verteilt eingehende Verbindungen auf mehrere Server, um Überlastung einzelner Systeme zu verhindern. | 🌐💻 |
 | [Load Balancing](https://www.elektronik-kompendium.de/sites/net/0906201.htm) | Verfahren zur gleichmäßigen Lastverteilung auf mehrere Systeme für höhere Verfügbarkeit und Performance. | 🌐💻 |
 
+---
+
 ## Kryptographie / Verschlüsselung / Netzwerksicherheit
 ### Videos
 - [Sebastian Philippi Netzwerksicherheit Reloaded Playlist](https://www.youtube.com/watch?v=bF_u0vCfrl0&list=PLCb8EhYsrW_ukGeh-8uSkv5ktYM41fgfV)
@@ -95,6 +99,8 @@
 | [SSL/TLS Schwachstellen](https://www.elektronik-kompendium.de/sites/net/1906041.htm) | Beschreibt bekannte Angriffe und Schwachstellen in SSL/TLS-Implementierungen (POODLE, BEAST usw.). | 🌐💻🔐 |
 | [PGP](https://www.elektronik-kompendium.de/sites/net/1810181.htm) | Erklärt PGP (Pretty Good Privacy) zur Ende-zu-Ende-Verschlüsselung von E-Mails und Dateien. | 💻🔐 |
 
+---
+
 ## Firewall / Paketfilterung
 ### Videos
 - [Sebastian Philippi ACL Playlist](https://www.youtube.com/watch?v=zXZgsVPRqnw&list=PLCb8EhYsrW_tLYFnK17Yb_kaoCmqJ3Lzk)
@@ -108,6 +114,8 @@
 | [Zero Trust](https://www.elektronik-kompendium.de/sites/net/2512031.htm) | Sicherheitsmodell, das grundsätzlich keinem Nutzer oder Gerät vertraut und jede Anfrage einzeln prüft. | 🌐💻🔐 |
 | [Deep Packet Inspection](https://www.elektronik-kompendium.de/sites/net/1408271.htm) | Analysiert den vollständigen Inhalt von Datenpaketen (inkl. Nutzdaten), um unerwünschten Traffic zu erkennen. | 🌐🔐 |
 | [Stateful Packet Inspection](https://www.elektronik-kompendium.de/sites/net/1409291.htm) | Prüft Pakete im Kontext bestehender Verbindungen und bietet mehr Sicherheit als einfache Paketfilter. | 🌐🔐 |
+
+---
 
 ## VPN
 ### Videos
@@ -124,6 +132,8 @@
 | [OpenVPN](https://www.elektronik-kompendium.de/sites/net/1706181.htm) | Weit verbreitetes Open-Source-VPN auf Basis von TLS mit flexibler plattformübergreifender Konfiguration. | 🌐🔐 |
 | [IPsec](https://www.elektronik-kompendium.de/sites/net/0906191.htm) | Protokollsuite zur verschlüsselten und authentifizierten Kommunikation direkt auf IP-Ebene. | 🌐🔐 |
 
+---
+
 ## System Hardening
 ### Videos
 - [Professor Messer: Härtungstechniken Comptia Security+](https://www.youtube.com/watch?v=wXoC46Qr_9Q)
@@ -134,7 +144,7 @@
 |---|---|
 | [Härten – Computer (Wikipedia)](https://de.wikipedia.org/wiki/H%C3%A4rten_(Computer)) | Erklärt das Konzept des System-Hardenings – gezieltes Absichern von Systemen durch Reduzierung der Angriffsfläche. |
 | [OS Hardening (fb-pro.com)](https://www.fb-pro.com/os-hardening/) | Praxisorientierter Leitfaden zum schrittweisen Absichern von Betriebssystemen. |
-
+---
 ## Virtualisierung
 ### Videos
 - [Stefan Macke Virtualisierung Video](https://www.youtube.com/watch?v=dcaJRPjI2QQ)
@@ -149,10 +159,14 @@
 | [Virtualisierung Prozessor](https://www.elektronik-kompendium.de/sites/com/3003141.htm) | Beschreibt, wie Prozessoren virtualisiert werden, um mehrere VMs gleichzeitig auszuführen. | 🌐💻 |
 | [Vertikale Skalierung](https://phoenixnap.de/Glossar/vertikale-Skalierung) | Erklärt vertikale Skalierung (Scale-up) – das Erweitern der Ressourcen eines einzelnen Systems. | |
 
+---
+
 ## Zahlensysteme
 ### Videos
 - [Stefan Macke: Zahlensysteme, Zweierpotenzen, Binärzahlen](https://www.youtube.com/watch?v=Tq69ov1Q1MI&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=6)
 - [Sebastian Philippi: Binärsystem einfach](https://www.youtube.com/watch?v=zVbCDlBc7AI)
+
+---
 
 ## IPv6
 ### Videos
@@ -194,6 +208,8 @@
 | [CG-NAT - Carrier Grade NAT](https://www.elektronik-kompendium.de/sites/net/2010221.htm) | Beschreibt die Mehrfachnutzung einer öffentlichen IPv4-Adresse durch viele Kunden beim Provider. | 🌐 |
 | [Umstieg von IPv4 auf IPv6](https://www.elektronik-kompendium.de/sites/net/1905101.htm) | Praktischer Leitfaden zur Planung und Durchführung der Migration von IPv4 auf IPv6. | 🌐 |
 
+---
+
 ## IPv4
 ### Videos
 - [Sebastian Philippi: IPv4 verstehen Playlist](https://www.youtube.com/playlist?list=PLCb8EhYsrW_vHZDA_8UOtTNPXRQ33-mOr)
@@ -223,6 +239,8 @@
 | [ARP - Address Resolution Protocol](https://www.elektronik-kompendium.de/sites/net/0901061.htm) | Ermittelt zu einer bekannten IP-Adresse die zugehörige MAC-Adresse im lokalen Netzwerk. | ✅🌐 |
 | [ICMP - Internet Control Message Protocol](https://www.elektronik-kompendium.de/sites/net/0901011.htm) | Überträgt Steuer- und Fehlermeldungen im IP-Netz, u. a. genutzt von Ping und Traceroute. | ✅🌐 |
 
+---
+
 ## Allgemeine Ressourcen
 
 | Link | Beschreibung | AP |
@@ -232,6 +250,8 @@
 | [FI-Forum Backup Formen](https://www.fachinformatiker.de/files/file/8-backup-formen/) | Überblick über Vollbackup, differentielles und inkrementelles Backup mit Vor- und Nachteilen. | ✅🌐💻 |
 | [FI-Forum IPv4 und IPv6](https://www.fachinformatiker.de/files/file/40-ipv4-und-ipv6/) | Vergleich und Grundlagen der Adressierungskonzepte IPv4 und IPv6. | ✅🌐💻 |
 | [FI-Forum Fachbegriffe Glossar](https://www.fachinformatiker.de/files/file/48-fachbegriffe-und-themen-kurzerklärung/) | Kompaktes Glossar mit kurzen Erklärungen wichtiger IT-Fachbegriffe für die Prüfungsvorbereitung. | ✅🌐💻 |
+
+---
 
 ## Prüfungsvorbereitung
 ### Videos
@@ -248,3 +268,5 @@
 | [FI-Forum AP2 FISI Masterplan](https://www.fachinformatiker.de/files/file/51-ap2-fisi-masterplan/) | Strukturierter Lernplan für alle relevanten Themen der AP2-Prüfung im Bereich Systemintegration. | 🌐 |
 | [FI-Forum AP2 FISI Prüfungsvorbereitung](https://www.fachinformatiker.de/files/file/52-fisi-ap-2-prüfungsvorbereitung/) | Umfassende Prüfungsunterlagen und Übersichten für den AP2-Bereich FISI. | 🌐 |
 | [FI-Forum AP2 FIAE Masterplan](https://www.fachinformatiker.de/files/file/50-ap2-fiae-masterplan-v10/) | Strukturierter Lernplan für alle relevanten Themen der AP2-Prüfung im Bereich Anwendungsentwicklung. | 💻 |
+
+---
