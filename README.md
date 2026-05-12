@@ -125,6 +125,10 @@
 | [IPsec](https://www.elektronik-kompendium.de/sites/net/0906191.htm) | Protokollsuite zur verschlüsselten und authentifizierten Kommunikation direkt auf IP-Ebene. | 🌐🔐 |
 
 ## System Hardening
+### Videos
+- [Professor Messer: Härtungstechniken Comptia Security+](https://www.youtube.com/watch?v=wXoC46Qr_9Q)
+- [Ken Harris: Windows Hardening](https://www.youtube.com/watch?v=dP-qNXRrRpA)
+---
 
 | Link | Beschreibung |
 |---|---|
@@ -154,7 +158,7 @@
 ### Videos
 - [Sebastian Philippi: IPv6 Grundlagen Playlist](https://www.youtube.com/playlist?list=PLCb8EhYsrW_symL1qayFNWN1yXkUjNAFz)
 - [Stefan Macke: IPv6](https://www.youtube.com/watch?v=9HJVbclAb-w&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=16)
-
+- [CCC FSCK 2026: 340 Sextillionen Gründe für IPv6](https://www.youtube.com/watch?v=hW_1T3bewm4)
 ---
 
 ### Adressen und Header
