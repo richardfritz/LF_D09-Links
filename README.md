@@ -9,6 +9,9 @@
 - [Firewall / Paketfilterung](#firewall--paketfilterung)
 - [VPN](#vpn)
 - [Virtualisierung](#virtualisierung)
+- [Zahlensysteme](#zahlensysteme)
+- [IPv6](#ipv6)
+- [IPv4](#ipv4)
 - [Allgemeine Ressourcen](#allgemeine-ressourcen)
 - [Prüfungsvorbereitung](#prüfungsvorbereitung)
 
@@ -21,6 +24,7 @@
 * 🔐 = Security / zusätzlich wichtig
 
 ## Grundlagen Netzwerktechnik
+### Videos
 - [Sebastian Philippi Netzwerk Grundlagen Playlist](https://www.youtube.com/watch?v=MpmfKq5Aq9A&list=PLCb8EhYsrW_tPXXICCdlCpIO9Ur0iXNg6)
 - [Stefan Macke Netzpläne](https://www.youtube.com/watch?v=ETcc9H3NlVg&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=17&pp=iAQB)
 
@@ -65,8 +69,10 @@
 | [Load Balancing](https://www.elektronik-kompendium.de/sites/net/0906201.htm) | Verfahren zur gleichmäßigen Lastverteilung auf mehrere Systeme für höhere Verfügbarkeit und Performance. | 🌐💻 |
 
 ## Kryptographie / Verschlüsselung / Netzwerksicherheit
+### Videos
 - [Sebastian Philippi Netzwerksicherheit Reloaded Playlist](https://www.youtube.com/watch?v=bF_u0vCfrl0&list=PLCb8EhYsrW_ukGeh-8uSkv5ktYM41fgfV)
 - [Sebastian Philippi Verschlüsseln, Signieren, Korrektheit garantieren Playlist](https://www.youtube.com/watch?v=Lq5u4YsiY_s&list=PLCb8EhYsrW_tZQ4bRkoGz3XzHuExiDWuF)
+- [Sebastian Philippi: Hashfunktionen](https://www.youtube.com/watch?v=ZWoqy_V2C3M)
 - [Stefan Macke Verschlüsselung Video (1,5h)](https://www.youtube.com/watch?v=n87q9bb-Kl4&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=7&pp=iAQB)
 
 ---
@@ -90,6 +96,7 @@
 | [PGP](https://www.elektronik-kompendium.de/sites/net/1810181.htm) | Erklärt PGP (Pretty Good Privacy) zur Ende-zu-Ende-Verschlüsselung von E-Mails und Dateien. | 💻🔐 |
 
 ## Firewall / Paketfilterung
+### Videos
 - [Sebastian Philippi ACL Playlist](https://www.youtube.com/watch?v=zXZgsVPRqnw&list=PLCb8EhYsrW_tLYFnK17Yb_kaoCmqJ3Lzk)
 
 ---
@@ -103,6 +110,8 @@
 | [Stateful Packet Inspection](https://www.elektronik-kompendium.de/sites/net/1409291.htm) | Prüft Pakete im Kontext bestehender Verbindungen und bietet mehr Sicherheit als einfache Paketfilter. | 🌐🔐 |
 
 ## VPN
+
+### Videos
 - [Sebastian Philippi VPN Playlist](https://www.youtube.com/watch?v=uAgbCoc-s7A&list=PLCb8EhYsrW_vtL-fKFr3lnJJ2yYPNFS6y)
 
 ---
@@ -124,6 +133,7 @@
 | [OS Hardening (fb-pro.com)](https://www.fb-pro.com/os-hardening/) | Praxisorientierter Leitfaden zum schrittweisen Absichern von Betriebssystemen. |
 
 ## Virtualisierung
+### Videos
 - [Stefan Macke Virtualisierung Video](https://www.youtube.com/watch?v=dcaJRPjI2QQ)
 
 ---
@@ -136,6 +146,80 @@
 | [Virtualisierung Prozessor](https://www.elektronik-kompendium.de/sites/com/3003141.htm) | Beschreibt, wie Prozessoren virtualisiert werden, um mehrere VMs gleichzeitig auszuführen. | 🌐💻 |
 | [Vertikale Skalierung](https://phoenixnap.de/Glossar/vertikale-Skalierung) | Erklärt vertikale Skalierung (Scale-up) – das Erweitern der Ressourcen eines einzelnen Systems. | |
 
+## Zahlensysteme
+### Videos
+- [Stefan Macke: Zahlensysteme, Zweierpotenzen, Binärzahlen](https://www.youtube.com/watch?v=Tq69ov1Q1MI&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=6)
+- [Sebastian Philippi: Binärsystem einfach](https://www.youtube.com/watch?v=zVbCDlBc7AI)
+
+## IPv6
+### Videos
+- [Sebastian Philippi: IPv6 Grundlagen Playlist](https://www.youtube.com/playlist?list=PLCb8EhYsrW_symL1qayFNWN1yXkUjNAFz)
+- [Stefan Macke: IPv6](https://www.youtube.com/watch?v=9HJVbclAb-w&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=16)
+
+---
+
+### Adressen und Header
+
+| Link | Beschreibung | AP |
+|---|---|:---:|
+| [IPv6 - Internet Protocol Version 6](https://www.elektronik-kompendium.de/sites/net/0812201.htm) | Grundlegende Einführung in IPv6 und dessen wesentliche Unterschiede zu IPv4. | ✅🌐 |
+| [IPv6-Adressen](https://www.elektronik-kompendium.de/sites/net/1902111.htm) | Erklärt den Aufbau und die Struktur der 128-Bit-langen IPv6-Adressen. | ✅🌐 |
+| [Schreibweise von IPv6-Adressen](https://www.elektronik-kompendium.de/sites/net/2003011.htm) | Beschreibt Notation, Kurzschreibweise und Regeln zur korrekten Darstellung von IPv6-Adressen. | ✅🌐 |
+| [Vergabe von IPv6-Adressen (Präfix)](https://www.elektronik-kompendium.de/sites/net/2102161.htm) | Erklärt die präfixbasierte Adressvergabe und Subnetting in IPv6. | 🌐 |
+| [IPv6-Address-Scopes (Gültigkeitsbereiche)](https://www.elektronik-kompendium.de/sites/net/2107111.htm) | Unterscheidet Link-Local, Unique-Local und globale Gültigkeitsbereiche von IPv6-Adressen. | 🌐 |
+| [IPv6-Multicast](https://www.elektronik-kompendium.de/sites/net/2009221.htm) | Beschreibt das Multicast-Konzept in IPv6, das IPv4-Broadcast vollständig ersetzt. | 🌐 |
+| [IPv6-Header und Extension Headers](https://www.elektronik-kompendium.de/sites/net/1902121.htm) | Erklärt den vereinfachten IPv6-Hauptheader und den flexiblen Erweiterungsheader-Mechanismus. | 🌐 |
+
+### IPv6-Protokolle: SLAAC, DHCPv6, NDP, ICMPv6
+
+| Link | Beschreibung | AP |
+|---|---|:---:|
+| [IPv6-Autokonfiguration](https://www.elektronik-kompendium.de/sites/net/2004011.htm) | Überblick über die automatische Adresskonfiguration ohne manuellen Eingriff in IPv6. | ✅🌐 |
+| [SLAAC - Stateless Address Autoconfiguration](https://www.elektronik-kompendium.de/sites/net/1902131.htm) | Erklärt, wie IPv6-Geräte ohne DHCP-Server automatisch eine globale Adresse aus dem Router-Präfix ableiten. | 🌐 |
+| [Privacy Extensions (IPv6)](https://www.elektronik-kompendium.de/sites/net/1601271.htm) | Beschreibt, wie zufällig generierte Schnittstellenkennungen die Privatsphäre bei SLAAC verbessern. | 🌐 |
+| [DHCPv6 (Stateful Address Autoconfiguration)](https://www.elektronik-kompendium.de/sites/net/1902141.htm) | Zustandsbehaftete Adressvergabe in IPv6 durch einen DHCPv6-Server, analog zu DHCP in IPv4. | 🌐 |
+
+### Dual Stack: Übergang IPv4 zu IPv6
+
+| Link | Beschreibung | AP |
+|---|---|:---:|
+| [Address Selection (IPv6)](https://www.elektronik-kompendium.de/sites/net/2004021.htm) | Erklärt, wie ein Dual-Stack-Gerät zwischen IPv4 und IPv6 für ausgehende Verbindungen wählt. | 🌐 |
+| [Übergangsverfahren von IPv4 auf IPv6](https://www.elektronik-kompendium.de/sites/net/1806031.htm) | Überblick über Mechanismen (Dual Stack, Tunneling, Translation) zur schrittweisen Migration. | ✅🌐 |
+| [Dual Stack](https://www.elektronik-kompendium.de/sites/net/1904041.htm) | Betrieb beider Protokollversionen gleichzeitig auf einem Gerät als gängigste Übergangsstrategie. | ✅🌐 |
+| [IPv6-Tunneling mit 6in4 / 6to4 / 6over4 / 4in6](https://www.elektronik-kompendium.de/sites/net/1904031.htm) | Erklärt Tunnelmechanismen, die IPv6-Pakete in einer IPv4-Infrastruktur transportieren. | 🌐 |
+| [Dual Stack Lite (DS-Lite / DSlite)](https://www.elektronik-kompendium.de/sites/net/2010211.htm) | Übergangsverfahren, bei dem IPv4 des Kunden über das IPv6-Netz des Providers getunnelt wird. | 🌐 |
+| [CG-NAT - Carrier Grade NAT](https://www.elektronik-kompendium.de/sites/net/2010221.htm) | Beschreibt die Mehrfachnutzung einer öffentlichen IPv4-Adresse durch viele Kunden beim Provider. | 🌐 |
+| [Umstieg von IPv4 auf IPv6](https://www.elektronik-kompendium.de/sites/net/1905101.htm) | Praktischer Leitfaden zur Planung und Durchführung der Migration von IPv4 auf IPv6. | 🌐 |
+
+## IPv4
+### Videos
+- [Sebastian Philippi: IPv4 verstehen Playlist](https://www.youtube.com/playlist?list=PLCb8EhYsrW_vHZDA_8UOtTNPXRQ33-mOr)
+- [Stefan Macke: IPv4](https://www.youtube.com/watch?v=rDCzSppPDHw&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=4)
+
+---
+
+### Adressen und Header
+
+| Link | Beschreibung | AP |
+|---|---|:---:|
+| [IPv4 - Internet Protocol Version 4](https://www.elektronik-kompendium.de/sites/net/0811271.htm) | Grundlegende Einführung in IPv4, seine Eigenschaften und Funktionsweise im Netzwerk. | ✅🌐 |
+| [IPv4-Adressen](https://www.elektronik-kompendium.de/sites/net/2011211.htm) | Erklärt den 32-Bit-Aufbau von IPv4-Adressen und die Einteilung in Netz- und Hostanteil. | ✅🌐 |
+| [IPv4-Konfiguration](https://www.elektronik-kompendium.de/sites/net/2011091.htm) | Beschreibt die manuelle und automatische Konfiguration von IPv4-Netzwerkadressen. | ✅🌐 |
+| [IPv4-Netzklassen](https://www.elektronik-kompendium.de/sites/net/2011221.htm) | Erklärt die historische Einteilung in Klasse A–E und deren jeweilige Adressbereiche. | ✅🌐 |
+| [Subnetting](https://www.elektronik-kompendium.de/sites/net/0907201.htm) | Beschreibt die Aufteilung eines IP-Netzes in kleinere Teilnetze mittels Subnetzmaske. | ✅🌐 |
+| [CIDR - Classless Inter-Domain Routing](https://www.elektronik-kompendium.de/sites/net/2011231.htm) | Erklärt die klassenlose Adressvergabe zur effizienteren Nutzung des knappen IPv4-Adressraums. | ✅🌐 |
+| [IPv4-Header](https://www.elektronik-kompendium.de/sites/net/2011241.htm) | Beschreibt die Felder und die Struktur des 20-Byte-IPv4-Headers. | 🌐 |
+| [IPv4-Multicasting](https://www.elektronik-kompendium.de/sites/net/1806041.htm) | Erklärt die Übertragung von Paketen an eine definierte Gruppe von Empfängern in IPv4. | 🌐 |
+
+### IPv4-Protokolle: DHCP, NAT, ARP, ICMP
+
+| Link | Beschreibung | AP |
+|---|---|:---:|
+| [DHCP - Dynamic Host Configuration Protocol](https://www.elektronik-kompendium.de/sites/net/0812221.htm) | Automatische Vergabe von IP-Adresse, Subnetzmaske, Gateway und DNS an Netzwerkclients. | ✅🌐 |
+| [NAT - Network Address Translation](https://www.elektronik-kompendium.de/sites/net/0812111.htm) | Übersetzt private IP-Adressen in eine öffentliche Adresse und ermöglicht die gemeinsame Internetnutzung. | ✅🌐 |
+| [ARP - Address Resolution Protocol](https://www.elektronik-kompendium.de/sites/net/0901061.htm) | Ermittelt zu einer bekannten IP-Adresse die zugehörige MAC-Adresse im lokalen Netzwerk. | ✅🌐 |
+| [ICMP - Internet Control Message Protocol](https://www.elektronik-kompendium.de/sites/net/0901011.htm) | Überträgt Steuer- und Fehlermeldungen im IP-Netz, u. a. genutzt von Ping und Traceroute. | ✅🌐 |
+
 ## Allgemeine Ressourcen
 
 | Link | Beschreibung | AP |
@@ -147,6 +231,7 @@
 | [FI-Forum Fachbegriffe Glossar](https://www.fachinformatiker.de/files/file/48-fachbegriffe-und-themen-kurzerklärung/) | Kompaktes Glossar mit kurzen Erklärungen wichtiger IT-Fachbegriffe für die Prüfungsvorbereitung. | ✅🌐💻 |
 
 ## Prüfungsvorbereitung
+### Videos
 - [Stefan Macke AP1 Playlist](https://www.youtube.com/playlist?list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj) ✅
 - [Stefan Macke AP2 FIAE Prüfungsvorbereitung Playlist](https://www.youtube.com/watch?v=eQoC4GDzYbI&list=PLunzHF-cqEKMBkR6Jqg1YApkbJWEsy1gy)
 
