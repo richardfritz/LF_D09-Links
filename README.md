@@ -12,6 +12,9 @@
 - [Zahlensysteme](#zahlensysteme)
 - [IPv6](#ipv6)
 - [IPv4](#ipv4)
+- [Zahlensysteme](#zahlensysteme)
+- [IPv6](#ipv6)
+- [IPv4](#ipv4)
 - [Allgemeine Ressourcen](#allgemeine-ressourcen)
 - [Prüfungsvorbereitung](#prüfungsvorbereitung)
 
@@ -72,6 +75,7 @@
 ### Videos
 - [Sebastian Philippi Netzwerksicherheit Reloaded Playlist](https://www.youtube.com/watch?v=bF_u0vCfrl0&list=PLCb8EhYsrW_ukGeh-8uSkv5ktYM41fgfV)
 - [Sebastian Philippi Verschlüsseln, Signieren, Korrektheit garantieren Playlist](https://www.youtube.com/watch?v=Lq5u4YsiY_s&list=PLCb8EhYsrW_tZQ4bRkoGz3XzHuExiDWuF)
+- [Sebastian Philippi: Hashfunktionen](https://www.youtube.com/watch?v=ZWoqy_V2C3M)
 - [Sebastian Philippi: Hashfunktionen](https://www.youtube.com/watch?v=ZWoqy_V2C3M)
 - [Stefan Macke Verschlüsselung Video (1,5h)](https://www.youtube.com/watch?v=n87q9bb-Kl4&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=7&pp=iAQB)
 
