@@ -215,7 +215,9 @@
 ### Videos
 - [Sebastian Philippi: IPv4 verstehen Playlist](https://www.youtube.com/playlist?list=PLCb8EhYsrW_vHZDA_8UOtTNPXRQ33-mOr)
 - [Stefan Macke: IPv4](https://www.youtube.com/watch?v=rDCzSppPDHw&list=PLunzHF-cqEKNOpDGznc7SfT2cy8c2BXyj&index=4)
-
+- [Patrick Boekhoven: IPv4 Adressen](https://www.youtube.com/watch?v=95xu8f_1hYo)
+- [Patrick Boekhoven: Subnetting Grundlagen](https://www.youtube.com/watch?v=N0rgPjkDwtE)
+- [Patrick Boekhoven: IPv4 Subnetting VLSM (Variable Length Subnet Mask)](https://www.youtube.com/watch?v=jLC2pNUz60s)
 ---
 
 ### Allgemein
